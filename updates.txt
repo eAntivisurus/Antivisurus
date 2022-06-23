@@ -1,0 +1,18 @@
+;aiu;
+
+[Update]
+Name = Antivisurus
+ProductVersion = 0.1.0.0
+URL = https://raw.githubusercontent.com/eAntivisurus/Antivisurus/main/Antivisurus.exe
+Size = 26059836
+SHA256 = 5106108B449F4A22F69D1E4085FF100A42A45048F3EEBB8FF87A83CD01C697DC
+MD5 = 9a212112aec5b423c5c1e38dbdb9ee3e
+ServerFileName = Antivisurus.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Antivisurus inc\Antivisurus\Version
+Version = 0.1.0.0
+Description = Small Update
+Description1 = Only English and Spanish language dude for file size
+Feature =  
+Enhancement =  
+BugFix = Frogot to change 1.0 to 0.1
